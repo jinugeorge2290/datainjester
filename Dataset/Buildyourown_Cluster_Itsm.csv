@@ -1,0 +1,2 @@
+First_Name,Last_Name,Description,Short Description,Detailed_Decription,Impact,Urgency,Status,Status_Reason,Reported Source,Service_Type,ServiceCI,Assigned Support Company,Assigned Support Organization,Assigned Group,Resolution,Direct Contact Mail Station,SRID
+Mia,Ramirez,Unable to login into media service,Unable to login into media service,Unable to login into media service,3-Moderate/Limited,1-Critical,Assigned,,Direct Input,User Service Restoration,Media Service,Apex Global,Information Technology,Change Management,,DEMO-COE,DEMO-COE

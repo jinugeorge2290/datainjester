@@ -1,0 +1,3 @@
+﻿status,class,source_port,source_hostname,category,severity,priority,msg,Message,object,source_identifier,delay
+OPEN,EVENT,80,ts-route-service,Application,CRITICAL,PRIORITY_1,easyTravel Business Backend - Issues with Performance,"Transaction Slowness across Banking Transactions -0.12456-Dynatrace""",CPU,ffc26cbb-2ad2-46c9-ab6f-5cc685b6968c,yes
+OPEN,EVENT,80,ts-route-service,Application,CRITICAL,PRIORITY_1,easyTravel Business Backend - Issues with Performance,"Transaction Slowness across Banking Transactions -0.12456-Dynatrace""",CPU,ffc26cbb-2ad2-46c9-ab6f-5cc685b6968c,

@@ -1,0 +1,8 @@
+﻿status,class,source_port,source_hostname,severity,priority,msg,object,source_identifier,delay
+OPEN,EVENT,3181,lb-01,MINOR,PRIORITY_3,Load balancer node is not reachable,App,lb-01,
+OPEN,EVENT,3181,i-0282bfd01619bba18,MINOR,PRIORITY_1,Nagios - HTTPD service is not running for Media Service App,TP,i-0282bfd01619bba18,
+OPEN,EVENT,3181,i-0282bfd01619bba18,MINOR,PRIORITY_3,Media Service Application impacted. Error 503 in LB pool detected. ,App,i-0282bfd01619bba18,
+OPEN,EVENT,3181,web-fe-03,CRITICAL,PRIORITY_1,[AWS] EC 2 instance service not running,App,web-fe-03,
+OPEN,EVENT,3181,web-fe-03,CRITICAL,PRIORITY_1,[AWS] Elastic Search is not working,App,web-fe-03,
+OPEN,EVENT,3181,web-fe-03,CRITICAL,PRIORITY_1,[Nagios] Error 503 for Media Service App,App,web-fe-03,
+OPEN,EVENT,3181,web-fe-03,CRITICAL,PRIORITY_1,"Transaction slowness detected across Transactions -3243242-Dynatrace""",App,web-fe-03,

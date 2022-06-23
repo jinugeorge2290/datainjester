@@ -1,0 +1,14 @@
+﻿status,class,source_port,source_hostname,severity,priority,msg,object,source_identifier,delay
+OPEN,EVENT,3181,web-fe-03,CRITICAL,PRIORITY_1,[AWS] Elastic Search is not working,App,web-fe-03,yes
+OPEN,EVENT,3181,web-fe-03,CRITICAL,PRIORITY_1,[Dynatrace] Abnormal traffic pattern detected on tower220,App,web-fe-03,yes
+OPEN,EVENT,3181,web-fe-03,MINOR,PRIORITY_3,[Dynatrace] Transaction service stopped,App,web-fe-03,yes
+OPEN,EVENT,3181,web-fe-03,MINOR,PRIORITY_3,[Splunk] File size exceeding the threshold - /etc/bem.log,App,web-fe-03,yes
+OPEN,EVENT,3181,web-fe-03,MINOR,PRIORITY_3,[Splunk] File size exceeding the threshold - /etc/check.log,App,web-fe-03,yes
+OPEN,EVENT,3181,web-fe-03,MINOR,PRIORITY_3,[Splunk] File size exceeding the threshold - /etc/helix.log,App,web-fe-03,yes
+OPEN,EVENT,3181,web-fe-03,MINOR,PRIORITY_3,[Splunk] File size exceeding the threshold - /etc/asd.log,App,web-fe-03,yes
+OPEN,EVENT,3181,web-fe-03,MINOR,PRIORITY_3,[Splunk] File size exceeding the threshold - /etc/dyna.log,App,web-fe-03,yes
+OPEN,EVENT,3181,web-fe-03,CRITICAL,PRIORITY_1,[AWS] EC 2 instance service not running,App,web-fe-03,yes
+OPEN,EVENT,3181,lb-01,MINOR,PRIORITY_3,Load balancer node is not reachable,App,lb-01,yes
+OPEN,EVENT,3181,lb-01,MINOR,PRIORITY_1,[Dynatrace] Media Service Application impacted,TP,lb-01,yes
+OPEN,EVENT,3181,i-0282bfd01619bba18,MINOR,PRIORITY_3,Media Service Application impacted. Error 503 in LB pool detected. ,App,i-0282bfd01619bba18,yes
+OPEN,EVENT,3181,web-fe-03,MAJOR,PRIORITY_3,Abnormality detected in LB pool,Network,web-fe-03,yes
